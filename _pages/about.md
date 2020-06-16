@@ -4,10 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I lead applied research projects at the intersection of machine learning techniques and energy problems. My research includes developing techniques for automatically mapping global energy infrastructure and access from satellite imagery; transforming smart electric utility meter data into energy efficiency insights; and exploring the reliability and cost trade-offs of energy storage systems for integrating wind and solar power into the grid. 
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Visit my homepage [kylebradbury.com](https://www.kylebradbury.com/) for more information.
