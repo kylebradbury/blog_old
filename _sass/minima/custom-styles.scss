@@ -9,3 +9,11 @@
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
+
+.post img {
+    max-width: 100%;
+}
+
+b, strong {
+    font-weight: 800 !important;
+}
