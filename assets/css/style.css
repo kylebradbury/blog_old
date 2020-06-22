@@ -483,4 +483,8 @@ table td { text-overflow: ellipsis; overflow: hidden; max-width: 15em; }
 
 .highlight .gd { color: #ff5555; }
 
+.post img { max-width: 100%; }
+
+b, strong { font-weight: 800 !important; }
+
 /*# sourceMappingURL=style.css.map */
