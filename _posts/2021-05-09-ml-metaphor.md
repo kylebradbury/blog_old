@@ -1,7 +1,7 @@
 ---
 keywords: fastai
 description: Three (mostly-serious) machine learning principles offer lessons professionally and personally.
-title: Machine Learning as a Metaphor for Life
+title: Machine learning as a metaphor for life
 toc: false 
 badges: false
 comments: false
